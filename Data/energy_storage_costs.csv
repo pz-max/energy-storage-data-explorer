@@ -1,4 +1,4 @@
-technology,type,Charger capital costs [EUR/kW],Charger investment costs [EUR/kW],Discharger capital costs [EUR/kW],Discharger investment costs [EUR/kW],Store capital costs [EUR/kWh],Store investment costs [EUR/kWh],efficiency,year
+technology,type,Charger [EUR/kW]_cc,Charger [EUR/kW]_ic,Discharger [EUR/kW]_cc,Discharger [EUR/kW]_ic,Store [EUR/kWh]_cc,Store [EUR/kWh]_ic,efficiency,year
 Compressed-Air-Adiabatic,mechanical,38.09760914054018,473.09047,38.09760914054018,473.09047,0.41154288861225097,5.44879,0.72,2020
 Concrete,thermal,16.552005119209745,188.01841000000002,60.116223992838975,752.0736400000001,2.3673789520860598,29.43258,0.4059,2020
 Gravity-Brick,mechanical,18.582327672363345,207.78526000000002,18.582327672363345,207.78526000000002,13.942741374275029,187.32579,0.93,2020
