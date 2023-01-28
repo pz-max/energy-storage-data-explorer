@@ -29,7 +29,7 @@ fig_ic = px.scatter_3d(
 )
 
 # Plot!
-st.title('19 energy storage technologies by Max Parzen')
+st.title('19 energy storage technologies between 2020-2050 by Max Parzen')
 tab1, tab2 = st.tabs(["Capital costs", "Investment costs"])
 with tab1:
     # Capital costs
