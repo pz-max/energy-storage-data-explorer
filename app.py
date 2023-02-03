@@ -33,12 +33,12 @@ st.title('20 energy storage technologies between 2020-2050 by Max Parzen')
 st.markdown(
     "The total costs of an energy storage is the sum of charger, \n"
     "discharger and store cost. Instead of lumping these costs together \n"
-    "the 3D image breaks it down. \n\n"
-    "The overnight 'capital costs' are annualised to net present \n"
+    "the 3D image breaks it down. The overnight 'capital costs' are annualised to net present \n"
     "investment costs with a discount rate over the economic lifetime \n"
     "using the annuity factor.\n\n"
     "The capital cost equation is documented here: \n"
-    "https://pypsa-eur.readthedocs.io/en/latest/costs.html#cost-assumptions."
+    "https://pypsa-eur.readthedocs.io/en/latest/costs.html#cost-assumptions. \n"
+    "To reproduce the data, checkout: https://github.com/pz-max/energy-storage-data-explorer#energy-storage-data-explorer"
 )
 tab1, tab2 = st.tabs(["Investment costs", "Capital costs"])
 with tab1:
