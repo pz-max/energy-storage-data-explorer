@@ -15,3 +15,8 @@ Steps to get the `energy_storage_costs.csv` data:
 4. Move new created file `PyPSA-Earth/resources/energy_storage_costs.csv` to this explorer app `Data/energy_storage_costs.csv`
 
 Thank you to all open-source contributors.
+
+# License
+
+Code is licensed as [MIT](https://opensource.org/licenses/MIT)
+Data is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
